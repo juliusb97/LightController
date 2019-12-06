@@ -1,0 +1,11 @@
+.vs/
+LightController.sln
+
+LightController/bin
+LightController/obj
+LightController/Properties
+
+
+LightController/App.config
+LightController/Form1.resx
+LightController/LightController.csproj
